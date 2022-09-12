@@ -1,0 +1,1 @@
+Initial exercises on C
